@@ -2,6 +2,11 @@
 
 A list of react native resources that are cool
 
+## Splash Screen
+
+- [https://github.com/zoontek/react-native-bootsplash]() (I think this is newer)
+- [https://github.com/crazycodeboy/react-native-splash-screen]()
+
 ## Carousels
 
 - [https://github.com/leecade/react-native-swiper]()
